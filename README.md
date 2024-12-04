@@ -28,6 +28,7 @@ As part of my **Task 4** for the internship, I was assigned to build a music pla
 This project showcases my ability to build and style interactive web applications, and it reflects my commitment to delivering high-quality frontend solutions during my internship at CodeAlpha.
 
 # Image Gallery - Frontend Internship Project
+https://shashwat13244.github.io/image-gallery/
 
 This project is a fully functional **Image Gallery** developed as part of my **Frontend Development Internship** at **CodeAlpha**. It demonstrates my proficiency in utilizing **HTML**, **CSS**, and **JavaScript** to build dynamic, interactive web applications.
 
