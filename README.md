@@ -2,6 +2,7 @@
 
 # Music Player - Frontend Internship Project
 https://shashwat13244.github.io/music-player/
+
 This project is a fully functional **Music Player** developed as part of my **Frontend Development Internship** at **CodeAlpha**. It demonstrates my proficiency in utilizing **HTML**, **CSS**, and **JavaScript** to build dynamic, interactive web applications.
 
 ### Task Overview:
