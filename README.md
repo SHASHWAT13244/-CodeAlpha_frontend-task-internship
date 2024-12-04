@@ -62,6 +62,7 @@ As part of my **Task 1** for the internship, I was assigned to build an image ga
 This project showcases my ability to build and style interactive web applications, and it reflects my commitment to delivering high-quality frontend solutions during my internship at **CodeAlpha**.
 
 # Simple Calculator - Frontend Development Project
+https://shashwat13244.github.io/simple-calculator/
 
 This project is a fully functional **Simple Calculator** developed using **HTML**, **CSS**, and **JavaScript**. It demonstrates my skills in building interactive and dynamic web applications with an emphasis on clean design, user experience, and advanced functionality.
 
